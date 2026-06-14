@@ -146,19 +146,6 @@ Password: test123
 
 ---
 
-## 📥 Additional Resources
-
-### Software Package
-
-https://drive.google.com/file/d/0Bw-qNYNSGhdCbVdSdzZHX0pZOFE/view?usp=sharing&resourcekey=0-Q9wY-we5-vgs26YpPMrYaQ
-
-### Documentation
-
-* https://www.scribd.com/doc/296989740/InventoryManagementSystem-Sajan-Rajbhandari
-* Inventory-Management-System-Sajan-Rajbhandari.pdf (available in repository documentation)
-
----
-
 ## 📈 Future Enhancements
 
 * Advanced inventory analytics
